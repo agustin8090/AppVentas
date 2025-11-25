@@ -15,7 +15,7 @@ namespace Dominio.Entidades
         public decimal  PrecioUnitario {  get; set; }
         public decimal SubTotal {  get; set; }
 
-        public Venta Venta {  get; set; }
-        public Producto Producto {  get; set; }
+        public Venta Venta {  get; set; } = new Venta();
+        public Producto Producto {  get; set; } = new Producto();
     }
 }

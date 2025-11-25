@@ -14,8 +14,9 @@ namespace Dominio.Entidades
         public int IdUsuario { get; set; }
         public decimal Total { get; set; }
         public MetodoPago MetodoDePago { get; set; }
+        public bool Estado { get; set; }   
 
-        public Usuario Usuario { get; set; }
+        public Usuario Usuario { get; set; } = new Usuario();
         // una venta tiene muchos detalles de venta
         public ICollection<VentaDetalle> Detalles { get; set; } = new List<VentaDetalle>();
     }
