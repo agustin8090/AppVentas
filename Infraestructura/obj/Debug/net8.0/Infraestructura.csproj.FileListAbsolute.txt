@@ -1,0 +1,11 @@
+D:\repo visual\ProyectoFullstack\Infraestructura\bin\Debug\net8.0\Infraestructura.deps.json
+D:\repo visual\ProyectoFullstack\Infraestructura\bin\Debug\net8.0\Infraestructura.dll
+D:\repo visual\ProyectoFullstack\Infraestructura\bin\Debug\net8.0\Infraestructura.pdb
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfoInputs.cache
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.AssemblyInfo.cs
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.csproj.CoreCompileInputs.cache
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.dll
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\refint\Infraestructura.dll
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\Infraestructura.pdb
+D:\repo visual\ProyectoFullstack\Infraestructura\obj\Debug\net8.0\ref\Infraestructura.dll

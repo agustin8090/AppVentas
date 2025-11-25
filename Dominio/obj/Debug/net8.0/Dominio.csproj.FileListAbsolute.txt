@@ -1,0 +1,4 @@
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache

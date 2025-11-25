@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repo visual\\ProyectoFullstack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\ventadetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|d:\\repo visual\\proyectofullstack\\dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFEA535-BF2D-46E8-9DA5-7714F7A84ED1}|Dominio\\Dominio.csproj|solutionrelative:dominio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0507AF-DFD4-4FB0-AE64-4EC0852B4BC4}|Aplicacion\\Aplicacion.csproj|d:\\repo visual\\proyectofullstack\\aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0507AF-DFD4-4FB0-AE64-4EC0852B4BC4}|Aplicacion\\Aplicacion.csproj|solutionrelative:aplicacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2018C22-597A-4377-972D-46E8C103469D}|Infraestructura\\Infraestructura.csproj|d:\\repo visual\\proyectofullstack\\infraestructura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2018C22-597A-4377-972D-46E8C103469D}|Infraestructura\\Infraestructura.csproj|solutionrelative:infraestructura\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Auditoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Auditoria.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Auditoria.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Auditoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T00:05:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:59:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaDetalle.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\VentaDetalle.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\VentaDetalle.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\VentaDetalle.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\VentaDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:55:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Venta.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Venta.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Venta.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:51:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Usuario.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:46:12.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Aplicacion\\Class1.cs",
+              "RelativeDocumentMoniker": "Aplicacion\\Class1.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Aplicacion\\Class1.cs",
+              "RelativeToolTip": "Aplicacion\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:29:36.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Infraestructura\\Class1.cs",
+              "RelativeDocumentMoniker": "Infraestructura\\Class1.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Infraestructura\\Class1.cs",
+              "RelativeToolTip": "Infraestructura\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:29:11.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Producto.cs",
+              "ToolTip": "D:\\repo visual\\ProyectoFullstack\\Dominio\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T23:28:16.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
