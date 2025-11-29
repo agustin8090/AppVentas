@@ -26,11 +26,18 @@ namespace Infraestructura.Configuration
                 .IsRequired()
                 .HasColumnType("decimal(18,2)");
             // Relaciones
+            //Ventadetalle tiene una venta
             builder.HasOne(vd => vd.Venta)
+                //venta tiene muchos detalles
                 .WithMany(v => v.Detalles)
+                //la foreign key esta en ventadetalle
                 .HasForeignKey(vd => vd.IdVenta);
+
+            //Ventadetalle tiene un producto
             builder.HasOne(vd => vd.Producto)
+                //producto tiene muchos ventadetalles
                 .WithMany(p => p.VentaDetalles)
+                //la foreign key esta en ventadetalle
                 .HasForeignKey(vd => vd.IdProducto);
         }
     }

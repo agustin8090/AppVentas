@@ -1,0 +1,16 @@
+D:\repo visual\ProyectoFullstack\Aplicacion\bin\Debug\net8.0\Aplicacion.deps.json
+D:\repo visual\ProyectoFullstack\Aplicacion\bin\Debug\net8.0\Aplicacion.dll
+D:\repo visual\ProyectoFullstack\Aplicacion\bin\Debug\net8.0\Aplicacion.pdb
+D:\repo visual\ProyectoFullstack\Aplicacion\bin\Debug\net8.0\Dominio.dll
+D:\repo visual\ProyectoFullstack\Aplicacion\bin\Debug\net8.0\Dominio.pdb
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.AssemblyReference.cache
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfoInputs.cache
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfo.cs
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.sourcelink.json
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.Up2Date
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.dll
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
+D:\repo visual\ProyectoFullstack\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll

@@ -2,3 +2,11 @@ D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.GeneratedMSBui
 D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfoInputs.cache
 D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.AssemblyInfo.cs
 D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.csproj.CoreCompileInputs.cache
+D:\repo visual\ProyectoFullstack\Dominio\bin\Debug\net8.0\Dominio.deps.json
+D:\repo visual\ProyectoFullstack\Dominio\bin\Debug\net8.0\Dominio.dll
+D:\repo visual\ProyectoFullstack\Dominio\bin\Debug\net8.0\Dominio.pdb
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.sourcelink.json
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.dll
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\refint\Dominio.dll
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\Dominio.pdb
+D:\repo visual\ProyectoFullstack\Dominio\obj\Debug\net8.0\ref\Dominio.dll
